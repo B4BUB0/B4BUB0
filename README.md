@@ -4,7 +4,7 @@
 <h2> <img src="https://emoji.gg/assets/emoji/7279-vibecat.gif" width="24"/> 𝗔𝗯𝗼𝘂𝘁 𝗺𝗲 </h2>
 
 <li> 💻 𝖨'𝗆 Software engineer </li>
-<li> 🧠 𝖨'𝗆 𝖼𝗎𝗋𝗋𝖾𝗇𝗍𝗅𝗒 studing in Kookmin Univ   | South Korea | Seoul </li>
+<li> 🧠 𝖨'𝗆 𝖼𝗎𝗋𝗋𝖾𝗇𝗍𝗅𝗒 studing in Kookmin Univ | South Korea | Seoul </li>
 <li> 😍 𝖫𝗈𝖿𝗂 𝖡𝖾𝖺𝗍𝗌 + 𝖢𝗈𝖽𝗂𝗇𝗀 </li>
 <li> 😆 𝖯𝗋𝗈𝗇𝗈𝗎𝗇𝗌: 𝖧𝖾/𝖧𝗂𝗆 </li>
 
@@ -51,7 +51,7 @@
   <a href="https://www.linkedin.com/in/leonardo-yzquierdo-97899983/" target="_blank">
     <code><img width="51" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/linkedIn.png"/></code>
   </a>
-  <a href="mailto: leoyzquierdo@gmail.com" target="_blank">
+  <a href="mailto: i.am.baiysh@gmail.com" target="_blank">
     <code><img width="55" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/gmail.png"/></code>
   </a>
 </p>
