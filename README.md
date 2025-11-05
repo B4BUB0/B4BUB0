@@ -47,7 +47,6 @@
 <p align="center">
   <br>
   <a href="https://www.linkedin.com/in/leonardo-yzquierdo-97899983/" target="_blank">
-    <code><img width="51" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/linkedIn.png"/></code>
   </a>
   <a href="mailto: i.am.baiysh@gmail.com" target="_blank">
     <code><img width="55" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/gmail.png"/></code>
