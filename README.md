@@ -1,7 +1,7 @@
 <h1> 𝗛𝗶! 𝗜'𝗺 B4BUBO.<img src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/Hi.gif" width="25"></h1>
 <img align="right" width="50%" src="https://github.com/B4BUB0/Profile/blob/main/ghostedvpn-hacker-cat.gif">
 
-<h2> <img src="[https://emoji.gg/assets/emoji/7279-vibecat.gif](https://github.com/B4BUB0/Profile/blob/main/ghostedvpn-hacker-cat.gif?raw=true)" width="15"/> 𝗔𝗯𝗼𝘂𝘁 𝗺𝗲 </h2>
+<h2> <img src="[https://emoji.gg/assets/emoji/7279-vibecat.gif](https://github.com/B4BUB0/Profile/blob/main/ghostedvpn-hacker-cat.gif?raw=true)" width="24"/> 𝗔𝗯𝗼𝘂𝘁 𝗺𝗲 </h2>
 
 <li> 💻 𝖨'𝗆 Software engineer </li>
 <li> 🧠 𝖨'𝗆 𝖼𝗎𝗋𝗋𝖾𝗇𝗍𝗅𝗒 studing in Kookmin Univ | South Korea | Seoul </li>
@@ -10,10 +10,8 @@
 
 <br/>
 <h2>𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀 𝗮𝗻𝗱 𝗧𝗼𝗼𝗹𝘀</h2>
-<code><img width="43" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/React.svg"></code>
-<code><img width="40" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/Typescript.svg"></code>
-<code><img width="43" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/nextjs-logo.svg"></code>
-<code><img width="43" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/redux-logo.svg"></code>
+<code><img width="43" src="https://github.com/B4BUB0/Profile/blob/main/c-logo-icon-28389.png"></code>
+<code><img width="40" src="https://github.com/B4BUB0/Profile/blob/main/Python-programming-logo-on-transparent-background-PNG.png"></code>
 <code><img width="40" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/JS.svg"></code>
 <code><img width="40" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/git.svg"></code>
 <code><img width="40" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/figma-logo.png"></code>
