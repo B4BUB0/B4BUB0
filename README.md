@@ -31,7 +31,7 @@
 
 <p align="center">
   <a href="https://github.com/B4BUB0" target="_blank">
-    <img width="400em" src="https://github-readme-stats.vercel.app/api?username=B4BUB0&show_icons=true&theme=react&rank_icon=github" alt="B4BUB0's Stats" />
+    <img width="440em" src="https://github-readme-stats.vercel.app/api?username=B4BUB0&show_icons=true&theme=react&rank_icon=github" alt="B4BUB0's Stats" />
     <img width="335em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=B4BUB0&layout=compact&theme=react" alt="Most Used Languages" />
   </a>
 </p>
