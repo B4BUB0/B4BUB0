@@ -17,6 +17,15 @@
 <code><img width="40" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/JS.svg"></code>
 <code><img width="40" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/git.svg"></code>
 
+<div align="center">
+<h1> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Spouting%20Whale.png" alt="Spouting Whale" width="60" height="60" /> EXPLORE SOME  PRODUCTS THAT I BUILD</h1>
+
+<center>
+
+|  |  |
+| ------- | ------- |
+| ![Kookmin Hub](https://github.com/kunjgit/kunjgit/assets/103763618/88fb8aad-2614-4d14-9586-0f2524a9bc28) [**CertiCraft**](https://certicraft.tech) | ![Canfocus](https://github.com/kunjgit/kunjgit/assets/103763618/a3fa9ff9-d9f0-40eb-8ff7-2744af081298) [**GitGinie**](https://git-ginie.vercel.app) |
+| Building a supportive community where international students at Kookmin University can connect, grow, and thrive in Seoul.| Building a focusing timer |
 
 <br/>
 <br/>
