@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=10000&color=0ACD19&center=true&vCenter=true&width=1000&height=25&lines=WELLCOME!+I+AM+BAIYSH)](https://git.io/typing-svg)
 <h1> 𝗛𝗶! 𝗜'𝗺 𝗕𝗔𝗕𝗨𝗕𝗢 <img src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/Hi.gif" width="25"></h1>
-<img align="right" width="35%" src="https://github.com/B4BUB0/Profile/blob/main/ghostedvpn-hacker-cat.gif">
+<h2><img align="right" width="35%" src="https://github.com/B4BUB0/Profile/blob/main/ghostedvpn-hacker-cat.gif"></h2>
 
 <h2> 𝗔𝗯𝗼𝘂𝘁 𝗺𝗲 </h2>
 
