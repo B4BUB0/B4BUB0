@@ -1,16 +1,14 @@
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=10000&color=0ACD19&height=40&lines=HI!+I+AM+BABUBO%F0%9F%91%8B)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=10&duration=2000&pause=10000&color=0ACD19&width=100&height=20&lines=WELLCOME!)](https://git.io/typing-svg)
+<h1> 𝗛𝗶! 𝗜'𝗺 𝗕𝗔𝗕𝗨𝗕𝗢 <img src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/Hi.gif" width="25"></h1>
 <img align="right" width="35%" src="https://github.com/B4BUB0/Profile/blob/main/ghostedvpn-hacker-cat.gif">
 
-<h2> 𝗔𝗯𝗼𝘂𝘁 𝗺𝗲 <img src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/Hi.gif" width="25"></h2>
+<h2> 𝗔𝗯𝗼𝘂𝘁 𝗺𝗲 </h2>
 
 <li> 💻 𝖨'𝗆 Software engineer </li>
 <li> 🧠 𝖨'𝗆 𝖼𝗎𝗋𝗋𝖾𝗇𝗍𝗅𝗒 studing in Kookmin Univ  </li>
 <li> 🚨 South Korea | Seoul </li>
 <li> 😍 𝖫𝗈𝖿𝗂 𝖡𝖾𝖺𝗍𝗌 + 𝖢𝗈𝖽𝗂𝗇𝗀 </li>
 <li> 😆 𝖯𝗋𝗈𝗇𝗈𝗎𝗇𝗌: 𝖧𝖾/𝖧𝗂𝗆 </li>
-
 
 <br/>
 <h2>𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀 𝗮𝗻𝗱 𝗧𝗼𝗼𝗹𝘀</h2>
