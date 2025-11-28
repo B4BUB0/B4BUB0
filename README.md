@@ -25,7 +25,7 @@
 |  |  |
 | ------- | ------- |
 | ![Kookmin Hub](https://github.com/B4BUB0/Profile/blob/main/kmuhub.png) [**Kookminhub**](https://kookminhub.vercel.app/) | ![Canfocus](https://github.com/B4BUB0/Profile/blob/main/canfocus.png) [**CanFocus**](https://canfocus.base44.app/) |
-| Building a supportive community where international students at Kookmin University can connect, grow, and thrive in Seoul.| Building a focusing timer |
+| Building a supportive community where international students at Kookmin University can connect, grow, and thrive in Seoul.| Building a focusing timer with to do list and nature sounds. Chose water or sand and feel the vibe|
 
 <br/>
 <br/>
