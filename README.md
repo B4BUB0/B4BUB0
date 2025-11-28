@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Goblin+One&size=35&duration=2000&pause=1000&color=0ACD19&center=true&vCenter=true&width=600&height=70&lines=WELLCOME+TO+MY+GIT+;MY+NAME+IS+BAIYSH;HAVE+A+GOOD+DAY!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Goblin+One&duration=2000&pause=1000&color=0ACD19&center=true&vCenter=true&width=600&height=70&lines=WELLCOME+TO+MY+GIT+;MY+NAME+IS+BAIYSH;HAVE+A+GOOD+DAY!)](https://git.io/typing-svg)
 <h1> 𝗛𝗶! 𝗜'𝗺 𝗕𝗔𝗕𝗨𝗕𝗢 <img src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/Hi.gif" width="25"></h1>
 <img align="right" width="35%" src="https://github.com/B4BUB0/Profile/blob/main/ghostedvpn-hacker-cat.gif">
 
