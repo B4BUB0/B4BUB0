@@ -57,15 +57,13 @@
   </a>
 </h2>
 
-<p align="center">
-  <br>
-  <a href="https://www.linkedin.com/in/leonardo-yzquierdo-97899983/" target="_blank">
-  </a>
   <a href="mailto: i.am.baiysh@gmail.com" target="_blank">
     <code><img width="55" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/gmail.png"/></code>
   </a>
 </p>
 <br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=10000&color=0ACD19&center=true&vCenter=true&width=1000&height=25&lines=i.am.baiysh%40gmail.com)](https://git.io/typing-svg)
 
 #
 
