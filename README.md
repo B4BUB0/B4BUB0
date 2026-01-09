@@ -45,10 +45,10 @@
  <table align="center">
   <tr>
     <td align="center">
-      <img alt="Contribution Section" src="![](https://raw.githubusercontent.com/B4BUB0/github-stats/master/generated/overview.svg#gh-dark-mode-only)"  >
+      <img alt="Contribution Section" src="https://github.com/B4BUB0/Status/blob/master/generated/overview.svg"  >
     </td>
     <td align="center">
-       <img src ="![](https://raw.githubusercontent.com/B4BUB0/github-stats/master/generated/languages.svg#gh-dark-mode-only)">
+       <img src ="https://github.com/B4BUB0/Status/blob/master/generated/languages.svg">
     </td>
   </tr>
 </table>     
