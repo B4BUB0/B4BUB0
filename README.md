@@ -1,5 +1,5 @@
 
-<h1> 𝗛𝗶! 𝗜'𝗺 𝗕𝗔𝗕𝗨𝗕𝗢 <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="50"></h1>
+<h1> 𝗛𝗶! 𝗜'𝗺 𝗕𝗔𝗕𝗨𝗕𝗢 <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="40"></h1>
 <img align="right" width="35%" src="https://github.com/B4BUB0/Profile/blob/main/ghostedvpn-hacker-cat.gif">
 
 
