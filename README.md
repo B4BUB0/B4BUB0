@@ -21,7 +21,7 @@
 <code><img width="40" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/git.svg"></code>
 
 <div align="center">
-<h1> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Spouting%20Whale.png" alt="Spouting Whale" width="60" height="60" /> EXPLORE SOME  PRODUCTS THAT I BUILD</h1>
+<h1> <img src="[https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Spouting%20Whale.png](https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Animals/Horse.png)" alt="Spouting Whale" width="60" height="60" /> EXPLORE SOME  PRODUCTS THAT I BUILD</h1>
 
 <center>
 
@@ -77,4 +77,4 @@
 #
 
 <h4>𝗖𝗿𝗲𝗱𝗶𝘁: <a href="https://github.com/B4BUB0">B4BUB0</a></h4>
-<p>𝗟𝗮𝘀𝘁 𝗘𝗱𝗶𝘁𝗲𝗱 𝗢𝗻: 30/10/2025</p>
+<p>𝗟𝗮𝘀𝘁 𝗘𝗱𝗶𝘁𝗲𝗱 𝗢𝗻: 09/01/2026</p>
