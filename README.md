@@ -1,13 +1,11 @@
 
 <h1> 𝗛𝗶! 𝗜'𝗺 𝗕𝗔𝗕𝗨𝗕𝗢 <img src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/Hi.gif" width="25"></h1>
 <div>
- <table align="center">
   <tr>
     <td align="center">
       <img align="right" width="35%" src="https://github.com/B4BUB0/Profile/blob/main/ghostedvpn-hacker-cat.gif">
     </td>
-  </tr>
-</table>     
+  </tr>   
 </div>
 
 
