@@ -72,8 +72,7 @@
 
 #
 
-<h3>𝗧𝗵𝗮𝗻𝗸𝘀 𝗙𝗼𝗿 𝗩𝗶𝘀𝗶𝘁𝗶𝗻𝗴 </h3> <img height="35" src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Animals/Horse%20Face.png">
-
+<h3> <img height="35" src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Animals/Horse%20Face.png"> 𝗧𝗵𝗮𝗻𝗸𝘀 𝗙𝗼𝗿 𝗩𝗶𝘀𝗶𝘁𝗶𝗻𝗴 </h3> 
 #
 
 <h4>𝗖𝗿𝗲𝗱𝗶𝘁: <a href="https://github.com/B4BUB0">B4BUB0</a></h4>
