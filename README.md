@@ -3,7 +3,7 @@
 <img align="right" width="35%" src="https://github.com/B4BUB0/Profile/blob/main/ghostedvpn-hacker-cat.gif">
 
 
-<h2> 𝗔𝗯𝗼𝘂𝘁 𝗺𝗲 </h2>
+<h2> 𝗔𝗯𝗼𝘂𝘁 𝗺𝗲 <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Hand%20gestures/Writing%20Hand.png" width="40"> </h2>
 
 <li> 💻 𝖨'𝗆 Software engineer | Full-Stack + AI</li>
 <li> 🧠 𝖨'𝗆 𝖼𝗎𝗋𝗋𝖾𝗇𝗍𝗅𝗒 studing in Kookmin Univ  </li>
