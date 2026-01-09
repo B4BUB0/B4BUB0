@@ -41,14 +41,18 @@
 </summary>
 <br>
 
-<p align="center">
-  <a href="https://github.com/B4BUB0" target="_blank">
-    <img width="440em" src="https://github-readme-stats.vercel.app/api?username=B4BUB0&show_icons=true&theme=react&rank_icon=github" alt="B4BUB0's Stats" />
-    <img width="335em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=B4BUB0&layout=compact&theme=react" alt="Most Used Languages" />
-  </a>
-</p>
-</details>
-<br>
+<div>
+ <table align="center">
+  <tr>
+    <td align="center">
+      <img alt="Contribution Section" src="https://github.com/kunjgit/github-stats/blob/master/generated/overview.svg"  >
+    </td>
+    <td align="center">
+       <img src ="https://github.com/kunjgit/github-stats/blob/master/generated/languages.svg">
+    </td>
+  </tr>
+</table>     
+</div>
 
 <h2>
   𝗖𝗼𝗻𝗻𝗲𝗰𝘁 𝗪𝗶𝘁𝗵 𝗠𝗲
