@@ -5,8 +5,6 @@
   <tr>
     <td align="center">
       <img align="right" width="35%" src="https://github.com/B4BUB0/Profile/blob/main/ghostedvpn-hacker-cat.gif">
-    <td align="center">
-       <img src="https://github.com/B4BUB0/Status/blob/master/generated/languages.svg#gh-dark-mode-only" />
     </td>
   </tr>
 </table>     
