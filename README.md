@@ -5,7 +5,7 @@
 
 <h2> 𝗔𝗯𝗼𝘂𝘁 𝗺𝗲 <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Hand%20gestures/Writing%20Hand.png" width="25"> </h2>
 
-<li> 💻 𝖨'𝗆 Software engineer | Full-Stack + AI</li>
+<li> 💻 𝖨'𝗆 Software engineer | Full-Stack + AI Engineer</li>
 <li> 🧠 𝖨'𝗆 𝖼𝗎𝗋𝗋𝖾𝗇𝗍𝗅𝗒 studing in Kookmin Univ  </li>
 <li> 🚨 South Korea | Seoul </li>
 <li> 😍 Music + 𝖢𝗈𝖽𝗂𝗇𝗀 </li>
