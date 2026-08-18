@@ -14,12 +14,12 @@
 
 <br/>
 <h2>𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀 𝗮𝗻𝗱 𝗧𝗼𝗼𝗹𝘀</h2>
-## 📊 My Skills
-### Programming Languages:
-- **Java** (Intermediate level, focusing on Spring Framework)
-- **Python** (Learned basics)
-- **C++** (Current focus)
-- **SQL** (PostgreSQL)
+<h3> 📊 My Skills </h3>
+Programming Languages:
+<li> Java (Intermediate level, focusing on Spring Framework)</li>
+<li> Python (Learned basics)</li>
+<li> C++ (Current focus)</li>
+<li> SQL (PostgreSQL)</li>
 
 ### Tools & Frameworks:
 - PostgreSQL (Database Management)
