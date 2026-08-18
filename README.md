@@ -14,6 +14,17 @@
 
 <br/>
 <h2>𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀 𝗮𝗻𝗱 𝗧𝗼𝗼𝗹𝘀</h2>
+## 📊 My Skills
+### Programming Languages:
+- **Java** (Intermediate level, focusing on Spring Framework)
+- **Python** (Learned basics)
+- **C++** (Current focus)
+- **SQL** (PostgreSQL)
+
+### Tools & Frameworks:
+- PostgreSQL (Database Management)
+- Raspberry PI
+- Arduino
 <code><img width="40" src="https://github.com/B4BUB0/Profile/blob/main/Python-programming-logo-on-transparent-background-PNG.png"></code>
 <code><img width="43" src="https://github.com/B4BUB0/Profile/blob/main/c-logo-icon-28389.png"></code>
 <code><img width="43" src="https://github.com/B4BUB0/Profile/blob/main/java.png"></code>
