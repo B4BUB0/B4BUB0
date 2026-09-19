@@ -12,11 +12,6 @@
 <li> 😍 Music + 𝖢𝗈𝖽𝗂𝗇𝗀 + Study </li>
 
 
-
-<h2>𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀 𝗮𝗻𝗱 𝗧𝗼𝗼𝗹𝘀</h2>
-
-<h3>💻 My Skills</h3>
-
 ## 🛠️ Languages & Tools
 
 ### 💻 Languages
