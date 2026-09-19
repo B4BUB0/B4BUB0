@@ -17,8 +17,6 @@
 
 <h3>💻 My Skills</h3>
 
-<b>Programming Languages:</b>
-
 ## 🛠️ Languages & Tools
 
 ### 💻 Languages
