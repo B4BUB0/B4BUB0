@@ -19,26 +19,27 @@
 
 <b>Programming Languages:</b>
 
-<li>Java — Intermediate; currently focusing on Spring Framework</li>
-<li>C++ — Intermediate; currently strengthening problem-solving and algorithms</li>
-<li>Python — Basic; used for programming practice and AI/ML projects</li>
-<li>SQL — Intermediate; PostgreSQL and database management</li>
+## 🛠️ Languages & Tools
 
-<b>⚙️ Frameworks & Technologies:</b>
+### 💻 Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![RISC-V](https://img.shields.io/badge/RISC--V-283272?style=flat-square&logo=riscv&logoColor=white)
 
-<li>Spring Framework — Backend development</li>
-<li>PostgreSQL — Database design and management</li>
-<li>Git & GitHub — Version control and project management</li>
-<li>Raspberry Pi — Hardware and server-side projects</li>
-<li>Arduino — Embedded systems and hardware projects</li>
+### ⚙️ Frameworks & Backend
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-<b>🤖 Currently Exploring:</b>
+### 🔩 Systems & Hardware
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white)
 
-<li>Machine Learning & AI</li>
-<li>Computer Vision</li>
-<li>Backend Development</li>
-<li>Algorithms & Data Structures</li>
-</ul>
+### 🚀 Currently Exploring
+**AI / ML · Computer Vision · Algorithms · Full-Stack Development**
 
   
 <code><img width="40" src="https://github.com/B4BUB0/Profile/blob/main/Python-programming-logo-on-transparent-background-PNG.png"></code>
