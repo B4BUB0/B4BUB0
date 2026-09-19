@@ -13,19 +13,33 @@
 
 
 
-<br/>
 <h2>𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀 𝗮𝗻𝗱 𝗧𝗼𝗼𝗹𝘀</h2>
-<h3> 📊 My Skills </h3>
-Programming Languages:
-<li> Java (Intermediate level, focusing on Spring Framework)</li>
-<li> Python (Learned basics)</li>
-<li> C++ (Current focus)</li>
-<li> SQL (PostgreSQL)</li>
 
-### Tools & Frameworks:
-- PostgreSQL (Database Management)
-- Raspberry PI
-- Arduino
+<h3>💻 My Skills</h3>
+
+<b>Programming Languages:</b>
+
+<li>Java — Intermediate; currently focusing on Spring Framework</li>
+<li>C++ — Intermediate; currently strengthening problem-solving and algorithms</li>
+<li>Python — Basic; used for programming practice and AI/ML projects</li>
+<li>SQL — Intermediate; PostgreSQL and database management</li>
+
+<b>⚙️ Frameworks & Technologies:</b>
+
+<li>Spring Framework — Backend development</li>
+<li>PostgreSQL — Database design and management</li>
+<li>Git & GitHub — Version control and project management</li>
+<li>Raspberry Pi — Hardware and server-side projects</li>
+<li>Arduino — Embedded systems and hardware projects</li>
+
+<b>🤖 Currently Exploring:</b>
+
+<li>Machine Learning & AI</li>
+<li>Computer Vision</li>
+<li>Backend Development</li>
+<li>Algorithms & Data Structures</li>
+</ul>
+
   
 <code><img width="40" src="https://github.com/B4BUB0/Profile/blob/main/Python-programming-logo-on-transparent-background-PNG.png"></code>
 <code><img width="43" src="https://github.com/B4BUB0/Profile/blob/main/c-logo-icon-28389.png"></code>
