@@ -35,11 +35,7 @@
 **AI / ML · Computer Vision · Algorithms · Full-Stack Development**
 
   
-<code><img width="40" src="https://github.com/B4BUB0/Profile/blob/main/Python-programming-logo-on-transparent-background-PNG.png"></code>
-<code><img width="43" src="https://github.com/B4BUB0/Profile/blob/main/c-logo-icon-28389.png"></code>
-<code><img width="43" src="https://github.com/B4BUB0/Profile/blob/main/java.png"></code>
-<code><img width="40" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/JS.svg"></code>
-<code><img width="40" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/git.svg"></code>
+
 
 <div align="center">
 <h1> <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Animals/Horse.png" alt="Horse" width="70" height="70" /> EXPLORE SOME  PRODUCTS THAT I BUILD</h1>
