@@ -32,7 +32,7 @@
 ![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white)
 
 ### 🚀 Currently Exploring
-**AI / ML · Computer Vision · Algorithms · Full-Stack Development**
+**🤖AI / ML · 👁️Computer Vision · 🧠Algorithms · 🌐Full-Stack Development**
 
   
 
