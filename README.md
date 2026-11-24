@@ -5,7 +5,7 @@
 
 <h2> 𝗔𝗯𝗼𝘂𝘁 𝗺𝗲 <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Hand%20gestures/Writing%20Hand.png" width="25"> </h2>
 
-<li> 🤓 Name: Baiysh</li>
+<li> 🤓 Name: Baiysh [Profile](https://baiysh-portfolio-vercel.vercel.app/)</li>
 <li> 💻 Full-Stack + AI Engineer</li>
 <li> 🧠 Studing in Kookmin Univ  </li>
 <li> 🚨 South Korea | Seoul </li>
