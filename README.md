@@ -4,8 +4,14 @@
 
 
 <h2> 𝗔𝗯𝗼𝘂𝘁 𝗺𝗲 <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Hand%20gestures/Writing%20Hand.png" width="25"> </h2>
+<p>
+  <a href="[https://temuujn.tech/](https://baiysh-portfolio-vercel.vercel.app/)"><strong>Portfolio ↗</strong></a>&nbsp;&nbsp; / &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/">LinkedIn</a>&nbsp;&nbsp; / &nbsp;&nbsp;
+  <a href="mailto:@gmail.com">Email</a>&nbsp;&nbsp; / &nbsp;&nbsp;
+  <a href="https://github.com/">GitHub</a>
+</p>
 
-<li> 🤓 Name: Baiysh [Profile](https://baiysh-portfolio-vercel.vercel.app/)</li>
+<li> 🤓 Name: Baiysh </li>
 <li> 💻 Full-Stack + AI Engineer</li>
 <li> 🧠 Studing in Kookmin Univ  </li>
 <li> 🚨 South Korea | Seoul </li>
